@@ -1,4 +1,4 @@
-MP4 file parser
+This is MP4 atom parser
 
 This is a CMake project
 How to run it:
